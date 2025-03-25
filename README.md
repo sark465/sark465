@@ -44,8 +44,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="sql" width="40" height="40"/>
   </a>
   <a href="https://hive.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Apache_Hive_logo.svg/1280px-Apache_Hive_logo.svg.png" alt="hive" width="40" height="40"/>
-  </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Apache_Hive_logo.svg/256px-Apache_Hive_logo.svg.png" alt="hive" width="40" height="40"/>
+</a>
   <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" alt="hadoop" width="40" height="40"/>
   </a>
