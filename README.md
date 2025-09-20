@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sarnali Sarkar</h1>
-<h3 align="center">Software Developer Intern</h3>
+<h3 align="center">Software Developer Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sark465&label=Profile%20views&color=0e75b6&style=flat" alt="sark465" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sark465" alt="sark465" /></a> </p>
 
-- 💬 Ask me about **Python, TensorFlow, Keras**
+- 💬 Ask me about **Python, SQL, Javascript , Node , Natural Language Processing , Artificial Intelligence , Machine Learning , Deep Learning , TensorFlow , Keras**
 
 - 📫 How to reach me **[sarnalisarkar14@gmail.com](mailto:sarnalisarkar14@gmail.com)**
 
